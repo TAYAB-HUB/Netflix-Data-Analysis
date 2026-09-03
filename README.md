@@ -24,8 +24,7 @@ This projects will focus on issues such as data cleaning, visualization and expl
 <h2><a class="anchor" id="Dataset"></a>Dataset</h2>
 <p>1.This dataset consists of all Netflix original films released as of June 1st, 2021 <br>
 2. The data was webscraped off of this Wikipedia page, which was then integrated with a dataset consisting of all of their corresponding IMDB scores.<br>
-3. The dataset available on <a href = "https://www.kaggle.com/code/sohommajumder21/eda-data-visualisation-netflix/input"></a>.<br></p>
-
+3. The dataset available on <a href = [Kaggle Dataset](https://www.kaggle.com/code/sohommajumder21/eda-data-visualisation-netflix/input)></a>.<br></p>
 
 
 <h2><a class="anchor" id="Tools and Technology"></a>Tools and Technology</h2>
