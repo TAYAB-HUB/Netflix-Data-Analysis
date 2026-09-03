@@ -24,7 +24,7 @@ This projects will focus on issues such as data cleaning, visualization and expl
 <h2><a class="anchor" id="Dataset"></a>Dataset</h2>
 <p>1.This dataset consists of all Netflix original films released as of June 1st, 2021 <br>
 2. The data was webscraped off of this Wikipedia page, which was then integrated with a dataset consisting of all of their corresponding IMDB scores.<br>
-3. The dataset available on <a herf = "Kaggle"></a>.<br></p>
+3. The dataset available on <a href = "https://www.kaggle.com/code/sohommajumder21/eda-data-visualisation-netflix/input"></a>.<br></p>
 
 
 
@@ -42,7 +42,7 @@ This Project cover this question:
 <br>2.Find and visualize the IMDB values of the movies shot in the Documentary genre between January 2019 and June 2020:</br>
 <br><img width="1669" height="393" alt="scatter plot graph for IMDB score" src="https://github.com/user-attachments/assets/fb1f8b4d-2f6d-417c-a592-86967e897e43" /><br>
 
-<br>3.How many categories does the Genre Column have and what are they? Visualize it:</br>
+<br>3. How many categories does the Genre column have and what are they? Visualize it</br>
 <br><img width="1677" height="566" alt="bar graph" src="https://github.com/user-attachments/assets/42dbfb5e-8c85-461b-8aa0-b83788a66dcb" /></br>
 
 <br>4.Find the 3 most used languages in the movies in the data set:</br>
