@@ -83,7 +83,7 @@ Operating in hyper-competitive short-term rental markets requires dynamic visibi
 
 Sample DAX calculations implemented in this model:
 
-dax
+```dax
 // 1. Total Active Listings
 Total Listings = COUNTROWS('Listings')
 
@@ -106,6 +106,7 @@ DIVIDE(
     0
 )
 ```
+
 
 ---
 
